@@ -1,0 +1,22 @@
+10/08/2017 12:35:13 devpinoyLogger 
+
+Started Executing test case-> Login to application
+
+10/08/2017 12:35:17 devpinoyLogger Test step is -> testlogin-[Login to application, , , , , Y, Firefox, ]
+10/08/2017 12:35:17 devpinoyLogger PASS
+10/08/2017 12:35:18 devpinoyLogger Test step is -> testlogin-[, GOTOURL, , , url, Y, Firefox, ]
+10/08/2017 12:35:18 devpinoyLogger PASS
+10/08/2017 12:35:21 devpinoyLogger Test step is -> testlogin-[, DRIVERWAIT, , , 2.0, Y, Firefox, ]
+10/08/2017 12:35:21 devpinoyLogger PASS
+10/08/2017 12:35:22 devpinoyLogger Test step is -> testlogin-[, SETTEXT, username, id, mala.gupta@evalueserve.com, Y, Firefox, ]
+10/08/2017 12:35:22 devpinoyLogger PASS
+10/08/2017 12:35:22 devpinoyLogger Test step is -> testlogin-[, SETTEXT, password, id, 123456.0, Y, Firefox, ]
+10/08/2017 12:35:22 devpinoyLogger PASS
+10/08/2017 12:35:23 devpinoyLogger Test step is -> testlogin-[, CLICK, clk, xpath, , Y, Firefox, ]
+10/08/2017 12:35:23 devpinoyLogger PASS
+10/08/2017 12:35:27 devpinoyLogger Test step is -> testlogin-[, CLICK, login, classname, , Y, Firefox, ]
+10/08/2017 12:35:27 devpinoyLogger PASS
+10/08/2017 12:35:27 devpinoyLogger Test step is -> testlogin-[, VERIFYELEMENTPRESENT, Trading_heading, xpath, , Y, Firefox, ]
+10/08/2017 12:35:27 devpinoyLogger PASS
+10/08/2017 12:35:27 devpinoyLogger Test step is -> testlogin-[, CLOSE, , , , Y, Firefox, ]
+10/08/2017 12:35:27 devpinoyLogger PASS

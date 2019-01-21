@@ -1,0 +1,8 @@
+Change the File path in the following places:
+
+Hybrid class: 
+1. FilepathforStatus 
+1. IE Webdriver file location
+2. Gecko Webdriver file location
+3. test scenario file location path ,file nam and sheet name
+4. Screenshot Path location for pass cases and failed cases

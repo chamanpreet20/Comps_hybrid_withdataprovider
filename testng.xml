@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Screenshot Test Suite" >
+   
+    <listeners>
+       <listener class-name='operation.LocalScreenshot' />
+        <listener class-name='operation.CustomizedEmailableReport' />
+    </listeners>
+
+
+
+    <test name="CompsTestCases">
+       <classes>
+            <class name="testcases.HybridExecuteTest"></class>
+        </classes>
+
+    </test>
+
+</suite>
+ 
